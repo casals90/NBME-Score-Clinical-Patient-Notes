@@ -4,9 +4,4 @@ Credits
 Project Lead
 ----------------
 
-* Mario Krapp <mariokrapp@gmail.com>
-
-Project Contributors
-------------
-
-None.
+* Jordi Casals <jordicasals90@gmail.com>
