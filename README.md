@@ -1,7 +1,7 @@
-name-of-your-science-project
+NBME - Score Clinical Patient Notes
 ==============================
 
-A short description of your project
+Identify Key Phrases in Patient Notes from Medical Licensing Exams.
 
 Project Organization
 --------------------
@@ -27,3 +27,5 @@ Project Organization
         ├── models
         ├── tools
         └── visualization
+
+
