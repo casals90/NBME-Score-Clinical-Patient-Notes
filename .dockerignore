@@ -1,0 +1,9 @@
+# By default, ignore everything
+*
+
+# Add exception for the files/directories to be included
+!app
+!src
+!config
+!notebooks
+
