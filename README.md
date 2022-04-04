@@ -3,6 +3,8 @@ NBME - Score Clinical Patient Notes
 
 Identify Key Phrases in Patient Notes from Medical Licensing Exams.
 
+Kaggle competition link https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/overview.
+
 Project Organization
 --------------------
 
