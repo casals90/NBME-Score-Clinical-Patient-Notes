@@ -59,10 +59,10 @@ From the root folder, the volumes are mounted as follows:
     volumes:
       - ./src:/home/jovyan/work/src
       - ./notebooks:/home/jovyan/work/notebooks
-      - ./data/raw:/data/external
-      - ./data/raw:/data/interim
-      - ./data/raw:/data/processed
-      - ./data/processed:/data/raw
+      - ./data/external:/data/external
+      - ./data/interim:/data/interim
+      - ./data/processed:/data/processed
+      - ./data/raw:/data/raw
       - ./reports:/reports
 ```
 
