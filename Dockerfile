@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook:lab-3.1.13
+FROM jupyter/base-notebook:lab-3.3.2
 
 # expose default Jupyter port
 EXPOSE 8888
